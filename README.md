@@ -1,4 +1,4 @@
 # Github-Pracitce
 learning Github
 <br>
-Aurthor Muhammad Ahmed
+Aurthor Muhammad Ahmed (Rana)
